@@ -1,7 +1,6 @@
 # Details
 
-Rename this file in the format `yourRollNumber_solution.md` (example, `220000_solution.md`) and submit the solution in the Google form link provided 
-*** https://forms.gle/RZtKpFcKfrWrYYxF9 ***
+Rename this file in the format `yourRollNumber_solution.md` (example, `220000_solution.md`) and create a pull request in the parent repository on github.
 
 
 ## Your zeroth approach below
